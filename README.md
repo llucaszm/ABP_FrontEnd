@@ -1,5 +1,5 @@
 # ABP_FrontEnd
-![Logo](satclogo.png) ![Logo](englogo.jpg) 
+![Logo](satclogo.png)           ![Logo](englogo.jpg) 
 
 Trabalho ABP para a matéria de front-end
 ## Integrantes:
