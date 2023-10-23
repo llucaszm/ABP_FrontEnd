@@ -27,8 +27,8 @@ HTML5, CSS, REACT/ANGULAR, etc etc...
 
 ### Integrantes:
 - [Jefferson Barzan Alexandrino](https://github.com/JeffAlexandrino)
-- [Juliano da Silva](https://github.com/)
+- [Juliano da Silva](https://github.com/ojulianos)
 - [Lucas Zilli Mariot](https://github.com/llucaszm)
-- [Maria Luíza Arend da Silva](https://github.com/)
+- [Maria Luíza Arend da Silva]()
 
 
