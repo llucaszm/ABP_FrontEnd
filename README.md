@@ -14,8 +14,8 @@ Facilitar bla bla bla bla....
 
 ### Estrutura do Projeto 
 (Descrição de telas e como funcionam)
+(Acho que um diagrama ficaria legal)
 <hr>
-
 ### Público Alvo
 (Para quem estamos fazendo o projeto) 
 
