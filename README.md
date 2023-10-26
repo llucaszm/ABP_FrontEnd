@@ -1,28 +1,7 @@
-# ABP_FrontEnd
+# LibraryGuru
 ![Logo](satclogo.png)           ![Logo](englogo.jpg) 
 
-Trabalho ABP para a matéria de front-end
-
-## Sobre o projeto
-### Descrição
-O projeto ABP (Aprendizagem Baseada em Projetos) consiste em um projeto digital desenvolvido para a disciplina de Front-End. Ele tem como objetivo explorar os conceitos e práticas relacionados à programação de HTML5, CSS e JavaScript na plataforma Visual Studio Code.
-
-(Descrição do projeto e suas ações)
-
-### Objetivo
-Facilitar bla bla bla bla....
-
-### Estrutura do Projeto 
-(Descrição de telas e como funcionam)
-(Acho que um diagrama ficaria legal)
-<hr>
-
-### Público Alvo
-(Para quem estamos fazendo o projeto) 
-
-### Tecnologias, bibliotecas e frameworks
-HTML5, CSS, REACT/ANGULAR, etc etc...
-
+Trabalho ABP para a matéria de front-end 
 <hr>
 
 ### Integrantes:
@@ -30,5 +9,32 @@ HTML5, CSS, REACT/ANGULAR, etc etc...
 - [Juliano da Silva](https://github.com/ojulianos)
 - [Lucas Zilli Mariot](https://github.com/llucaszm)
 - [Maria Luíza Arend da Silva](https://github.com/maluarend)
+<hr>
+
+## Sobre o projeto
+### Descrição
+O projeto ABP (Aprendizagem Baseada em Projetos) consiste em um projeto digital desenvolvido para a disciplina de Front-End. Ele tem como objetivo explorar os conceitos e práticas relacionados à programação de HTML5, CSS e JavaScript na plataforma Visual Studio Code.
+
+O projeto possui dois modos: o para clientes e o outro para funcinários. Os clientes podem visualizar os livros que estão em estoque e reservá-los para compra, enquanto os funcionários tem a visualização e controle do estoque de livros caso seja necessário repor, além de poder ver os pedidos feitos pelos clientes.
+
+### Objetivo
+O sistema melhora a eficiência e precisão do registro de solicitações dos clientes, eliminando erros e garantindo atendimento pontual, ao mesmo tempo que assegura uma experiência aprimorada ao cliente.
+
+### Estrutura do Projeto 
+(Descrição de telas e como funcionam)
+(Acho que um diagrama ficaria legal)
+<hr>
+
+### Público Alvo
+O software é desenvolvido com o intuito de ser utilizado por bibliotecas, livrarias e seus clientes.
+
+Uma vantagem significativa deste sistema é a melhoria da eficiência do estabelecimento, proporcionando aos funcionários a capacidade de registrar as solicitações dos clientes de forma ágil e precisa, eliminando a necessidade de anotações em papel ou em bloco de notas convencional e o controle e visualização do estoque de livros. Tal modernização economiza tempo, reduzindo equívocos e extravios de informações.
+
+Além disso, o sistema atua como um mecanismo de garantia, assegurando que as solicitações dos clientes sejam registradas com extrema precisão, evitando quaisquer possíveis falhas de comunicação entre os clientes e a equipe da biblioteca ou livraria. Essa abordagem proativa visa a minimizar eventuais reclamações e aprimorar a experiência do cliente, promovendo, assim, maior satisfação em suas interações com o estabelecimento.
+
+### Tecnologias, bibliotecas e frameworks
+HTML5, CSS, REACT/ANGULAR, etc etc...
+
+
 
 
