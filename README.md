@@ -4,7 +4,7 @@
 Trabalho ABP para a matéria de front-end 
 <hr>
 
-### Integrantes:
+## Integrantes:
 - [Jefferson Barzan Alexandrino](https://github.com/JeffAlexandrino)
 - [Juliano da Silva](https://github.com/ojulianos)
 - [Lucas Zilli Mariot](https://github.com/llucaszm)
@@ -26,14 +26,16 @@ Tela inicial com duas opções: ***cliente e funcionário*** <br>
 **Parte funcionário:** tela de login, tela para visualizar e controlar o estoque, tela para visualizar os pedidos dos clientes.
 <hr>
 
-### Público Alvo
+## Público Alvo
 O software é desenvolvido com o intuito de ser utilizado por bibliotecas, livrarias e seus clientes.
 
 Uma vantagem significativa deste sistema é a melhoria da eficiência do estabelecimento, proporcionando aos funcionários a capacidade de registrar as solicitações dos clientes de forma ágil e precisa, eliminando a necessidade de anotações em papel ou em bloco de notas convencional e o controle e visualização do estoque de livros. Tal modernização economiza tempo, reduzindo equívocos e extravios de informações.
 
 Além disso, o sistema atua como um mecanismo de garantia, assegurando que as solicitações dos clientes sejam registradas com extrema precisão, evitando quaisquer possíveis falhas de comunicação entre os clientes e a equipe da biblioteca ou livraria. Essa abordagem proativa visa a minimizar eventuais reclamações e aprimorar a experiência do cliente, promovendo, assim, maior satisfação em suas interações com o estabelecimento.
 
-### Tecnologias, bibliotecas e frameworks
+<hr>
+
+## Tecnologias, bibliotecas e frameworks
 HTML5, CSS, REACT/ANGULAR, etc etc...
 
 
