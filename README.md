@@ -21,8 +21,9 @@ O projeto possui dois modos: o para clientes e o outro para funcinários. Os cli
 Aprimorar a eficiência do estabelecimento ao registrar solicitações de clientes e gerenciar o estoque de livros de maneira ágil e precisa, reduzindo erros e garantindo uma experiência aprimorada para os clientes.
 
 ### Estrutura do Projeto 
-(Descrição de telas e como funcionam)
-(Acho que um diagrama ficaria legal)
+Tela inicial com duas opções: ***cliente e funcionário*** <br>
+**Parte cliente:** tela de login, tela para reservar livro. <br>
+**Parte funcionário:** tela de login, tela para visualizar e controlar o estoque, tela para visualizar os pedidos dos clientes.
 <hr>
 
 ### Público Alvo
