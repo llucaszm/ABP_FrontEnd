@@ -18,7 +18,7 @@ O projeto ABP (Aprendizagem Baseada em Projetos) consiste em um projeto digital 
 O projeto possui dois modos: o para clientes e o outro para funcinários. Os clientes podem visualizar os livros que estão em estoque e reservá-los para compra, enquanto os funcionários tem a visualização e controle do estoque de livros caso seja necessário repor, além de poder ver os pedidos feitos pelos clientes.
 
 ### Objetivo
-O sistema melhora a eficiência e precisão do registro de solicitações dos clientes, eliminando erros e garantindo atendimento pontual, ao mesmo tempo que assegura uma experiência aprimorada ao cliente.
+Aprimorar a eficiência do estabelecimento ao registrar solicitações de clientes e gerenciar o estoque de livros de maneira ágil e precisa, reduzindo erros e garantindo uma experiência aprimorada para os clientes.
 
 ### Estrutura do Projeto 
 (Descrição de telas e como funcionam)
