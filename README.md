@@ -1,7 +1,6 @@
 # LibraryGuru
 ![Logo](satclogo.png)           ![Logo](englogo.jpg) 
 
-Trabalho ABP para a matéria de front-end 
 <hr>
 
 ## Integrantes:
