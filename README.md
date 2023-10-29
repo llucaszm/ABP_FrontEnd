@@ -35,7 +35,7 @@ Além disso, o sistema atua como um mecanismo de garantia, assegurando que as so
 <hr>
 
 ## Tecnologias, bibliotecas e frameworks
-HTML5, CSS, REACT/ANGULAR, etc etc...
+HTML5, CSS/TailWindCss, AngularJS, TypeScript (podem haver mudanças)
 
 
 
