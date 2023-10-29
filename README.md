@@ -1,6 +1,10 @@
 # LibraryGuru
-![Logo](satclogo.png)           ![Logo](englogo.jpg) 
-
+<p align="center">
+  <img height="100" src="satclogo.png">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="100" src="englogo.jpg">
+</p>
+  
 <hr>
 
 ## Integrantes:
@@ -35,7 +39,11 @@ Além disso, o sistema atua como um mecanismo de garantia, assegurando que as so
 <hr>
 
 ## Tecnologias, bibliotecas e frameworks
-HTML5, CSS/TailWindCss, AngularJS, TypeScript (podem haver mudanças)
+1. [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+2. [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+3. [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+4. [Bootstrap](https://getbootstrap.com/)
+5. [React](https://react.dev/)
 
 
 
