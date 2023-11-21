@@ -1,8 +1,8 @@
 # LibraryGuru
 <p align="center">
-  <img height="100" src="satclogo.png">
+  <img height="100" src="public/img/satclogo.png">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="100" src="englogo.jpg">
+  <img height="100" src="public/img/englogo.jpg">
 </p>
   
 <hr>
@@ -27,6 +27,23 @@ Aprimorar a eficiência do estabelecimento ao registrar solicitações de client
 Tela inicial com duas opções: ***cliente e funcionário*** <br>
 **Parte cliente:** tela de login, tela para reservar livro. <br>
 **Parte funcionário:** tela de login, tela para visualizar e controlar o estoque, tela para visualizar os pedidos dos clientes.
+
+- Autenticação
+  - Login
+  - Esqueci a senha
+- Dashboard
+  - Informações da quantidade de livros, usuarios, e leituras cadastradas
+- Livros
+  - Lista de livros cadastradas
+  - Formulário para cadastro de livros
+  - Formulário para alterar um livro
+  - Tela para visualizar detalhes do livro
+- Usuários
+  - Lista de usuários cadastradas
+  - Formulário para cadastro de usuários
+  - Formulário para alterar um usuário
+  - Tela para visualizar detalhes do usuário
+
 <hr>
 
 ## Público Alvo
