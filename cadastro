@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lista de Usuários</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <h1>Lista de Usuários</h1>
+
+  <!-- Lista de Usuários -->
+  <ul class="user-list">
+    <li>
+      <span>Usuário 1</span>
+      <button>Editar</button>
+      <button>Ver</button>
+      <button>Excluir</button>
+    </li>
+    <li>
+      <span>Usuário 2</span>
+      <button>Editar</button>
+      <button>Ver</button>
+      <button>Excluir</button>
+    </li>
+    <!-- Adicione mais itens de lista conforme necessário -->
+  </ul>
+
+  <!-- Formulário de Cadastro/Edição -->
+  <div class="user-form">
+    <h2>Cadastrar/Editar Usuário</h2>
+    <label for="name">Nome do Usuário:</label>
+    <input type="text" id="name" placeholder="Digite o nome do usuário">
+
+    <button>Salvar</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.user-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.user-list li {
+  margin-bottom: 10px;
+}
+
+.user-list li span {
+  font-weight: bold;
+}
+
+.user-list li button {
+  margin-left: 10px;
+}
+
+.user-form label,
+.user-form input {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.user-form button {
+  margin-top: 10px;
+}
